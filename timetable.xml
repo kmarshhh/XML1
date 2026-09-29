@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+    <complexes>
+        <complex code="c1">
+            <name>Первый корпус</name>
+            <address>ул. Пушкина дом Колотушкина, 67</address>
+        </complex>
+        <complex code="c2">
+            <name>Второй корпус</name>
+            <address>ул. Егора Крида, 28</address>
+        </complex>
+    </complexes>
+    <lessons>
+        <lesson no="1" complex="c1">
+            <date>2026.09.30</date>
+            <time>09:00</time>
+        </lesson>
+        <lesson no="2" complex="c2">
+            <date>2026.09.30</date>
+            <time>10:45</time>
+        </lesson>
+    </lessons>
+</timeTable>
